@@ -4,9 +4,10 @@ title: Archive
 permalink: /archive/
 ---
 
-An archive of my posts.
-
-### Contact me
-
-1. Intro
-2. Something
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
