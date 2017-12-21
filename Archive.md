@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Index
-permalink: /index/
+title: Archive
+permalink: /archive/
 ---
 
 An archive of my posts.
