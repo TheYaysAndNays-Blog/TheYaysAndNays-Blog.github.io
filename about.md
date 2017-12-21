@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about myself.
+I care way too much about legislative procedure. I also love elections. I'm a Democrat.
 
 ### Contact me
 
