@@ -11,4 +11,5 @@ I also love elections. In case you couldn't tell, I'm a Democrat.
 ### Contact me
 
 [@TheYaysAndNays](https://twitter.com/TheYaysAndNays)
+
 [theyaysandnays@gmail.com](mailto:theyaysandnays@gmail.com)
