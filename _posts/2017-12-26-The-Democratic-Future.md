@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Democratic Future--A Manifesto of Party Priorities
+published: false
 ---
 
 ## Overview
