@@ -1,13 +1,15 @@
 ---
 layout: post
-title: So, About 2016…
+title: So, About 2016… Part 1
 ---
 
-I will be a lonely political observer for saying this, but I don’t think the 2016 presidential election itself was a particularly interesting one. (This is not a statement about the campaign, which was… horrifying, twisted, and awful.)  But the election itself, while surprising, signified a few themes that are not surprising in it of themselves. What’s most important about 2016 is that Democrats do not overlearn some prominent criticisms, but instead learn what drove Republican success. Here, I discuss the primary process on both sides and the general election, as well takeaways for 2020, including a prediction.
+I will be alone in saying this, but I don’t think the 2016 presidential election itself was a particularly interesting one. (This is not a statement about the campaign, which was… horrifying, twisted, and awful.)  But the election itself, while surprising, signified a few themes that are not surprising themselves. What’s most important about 2016 is that Democrats do not "overlearn" some prominent criticisms, but instead learn what drove Trump's success.
 
-## The Primaries
+## The Electoral College -- Why a Surprise?
 
-## The General
+<!--more-->
+
+## State-by-State
 
 ### Arizona
 
