@@ -11,20 +11,26 @@ I will be a lonely political observer for saying this, but I don’t think the 2
 
 ### Arizona
 
-![Arizona!](https://upload.wikimedia.org/wikipedia/commons/6/6b/Arizona_Presidential_Election_Results_2016.svg "Arizona 2016")
+![Arizona!](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Arizona_Presidential_Election_Results_2016.svg/514px-Arizona_Presidential_Election_Results_2016.svg.png "Arizona 2016")
+
 ![Arizona!](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/United_States_presidential_election_in_Arizona%2C_2016.svg/544px-United_States_presidential_election_in_Arizona%2C_2016.svg.png "Arizona 2016")
 	
 ### Michigan
 
-![Michigan!]({{ site.baseurl }}/images/arizona-2016.png "Michigan 2016")
+![Michigan!](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Michigan_Presidential_Election_Results_2016.svg/550px-Michigan_Presidential_Election_Results_2016.svg.png "Michigan 2016")
+
+![Michigan!](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/United_States_presidential_election_in_Michigan%2C_2016.svg/544px-United_States_presidential_election_in_Michigan%2C_2016.svg.png "Michigan 2016")
 
 ### North Carolina
 
-![The Tar Heel State]({{ site.baseurl }}/images/nc-2016.png "North Carolina 2016")
+![The Tar Heel State](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/North_Carolina_Presidential_Election_Results_2016.svg/426px-North_Carolina_Presidential_Election_Results_2016.svg.png "North Carolina 2016")
+
+![The Tar Heel State](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/United_States_presidential_election_in_North_Carolina%2C_2016.svg/544px-United_States_presidential_election_in_North_Carolina%2C_2016.svg.png "North Carolina 2016")
 
 ### Pennsylvania
 
-![The Keystone State](https://upload.wikimedia.org/wikipedia/commons/9/94/Pennsylvania_county_level_results_for_the_United_Strates_Presidential_Election%2C_2016.svg "Pennsylvania 2016")
+![The Keystone State](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pennsylvania_county_level_results_for_the_United_Strates_Presidential_Election%2C_2016.svg/320px-Pennsylvania_county_level_results_for_the_United_Strates_Presidential_Election%2C_2016.svg.png "Pennsylvania 2016")
+
 ![The Keystone State](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/United_States_presidential_election_in_Pennsylvania%2C_2016.svg/544px-United_States_presidential_election_in_Pennsylvania%2C_2016.svg.png "Pennsylvania 2016")
 
 ## Lessons for 2020
